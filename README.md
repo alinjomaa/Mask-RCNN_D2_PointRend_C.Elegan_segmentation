@@ -1,1 +1,1 @@
-# worm_segmentation_detectron2
+# Mask-RCNN_D2_PointRend_C.Elegan_segmentation
